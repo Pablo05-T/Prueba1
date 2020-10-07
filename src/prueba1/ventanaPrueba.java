@@ -17,3 +17,4 @@ public class ventanaPrueba {
         f.setVisible(true);
     }
 }
+ 
